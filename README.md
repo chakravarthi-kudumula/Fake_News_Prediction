@@ -15,7 +15,7 @@ Dataset CSV file : https://www.kaggle.com/competitions/fake-news/data?select=tra
 <p>author: Author of the news article</p>
 <p>text: Text of the article (could be incomplete)</p>
 <p>label: Binary label indicating reliability (0: reliable, 1: unreliable)</p>
-<p>Dataset Link: Link to Dataset</p>
+
 
 <h2>Python Libraries Used</h2>
 
