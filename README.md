@@ -19,18 +19,18 @@ Dataset CSV file : https://www.kaggle.com/competitions/fake-news/data?select=tra
 
 <h2>Python Libraries Used</h2>
 
-numpy
-pandas
-re
-nltk (Natural Language Toolkit)
-sklearn (scikit-learn)
+<p>numpy</p>
+<p>pandas</p>
+<p>re</p>
+<p>nltk (Natural Language Toolkit)</p>
+<p>sklearn (scikit-learn)</p>
 
 <h2>Important Steps</h2>
 
-Importing Libraries: Importing necessary Python libraries for data manipulation, preprocessing, and machine learning.
-Data Preprocessing: Cleaning and preparing the dataset for analysis.
-Stemming: Reducing words to their root form for better analysis.
-Splitting the Dataset: Dividing the dataset into training and testing sets.
-Training the Model: Utilizing logistic regression for training the predictive model.
-Evaluation: Assessing the model's performance and accuracy scores.
-Making a Predictive System: Developing a system for predicting the reliability of news articles.
+<p>Importing Libraries: Importing necessary Python libraries for data manipulation, preprocessing, and machine learning.</p>
+<p>Data Preprocessing: Cleaning and preparing the dataset for analysis.</p>
+<p>Stemming: Reducing words to their root form for better analysis.</p>
+<p>Splitting the Dataset: Dividing the dataset into training and testing sets.</p>
+<p>Training the Model: Utilizing logistic regression for training the predictive model.</p>
+<p>Evaluation: Assessing the model's performance and accuracy scores.</p>
+<p>Making a Predictive System: Developing a system for predicting the reliability of news articles.</p>
