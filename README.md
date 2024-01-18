@@ -10,12 +10,12 @@ Dataset CSV file : https://www.kaggle.com/competitions/fake-news/data?select=tra
 
 <h2>Attributes in the dataset:</h2>
 
-id: Unique identifier for a news article
-title: Title of the news article
-author: Author of the news article
-text: Text of the article (could be incomplete)
-label: Binary label indicating reliability (0: reliable, 1: unreliable)
-Dataset Link: Link to Dataset
+<p>id: Unique identifier for a news article</p>
+<p>title: Title of the news article</p>
+<p>author: Author of the news article</p>
+<p>text: Text of the article (could be incomplete)</p>
+<p>label: Binary label indicating reliability (0: reliable, 1: unreliable)</p>
+<p>Dataset Link: Link to Dataset</p>
 
 <h2>Python Libraries Used</h2>
 
